@@ -1,4 +1,4 @@
-# Dulce adicción a ti
+# Dulce adicción a ti, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Dulce adicción a ti |
+| **Title** | Dulce adicción a ti, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-adiccion-a-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dulce adicción a ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-a-ti/) |
+| **Get License** | [Secure Licensing Rights for Dulce adicción a ti, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-a-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, te busco de noche por toda la ciudad
+> Tienes un flow asesino, una magia de verdad
+> Me dejas adicto a tu aroma, I want you so bad
+> Eres mi dulce veneno, me quitas la paz
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `cc130e13cd1888906a5a4f870322d94f1b254888eecc091cb49c0c13b1b1e2b8` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 

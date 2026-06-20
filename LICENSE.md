@@ -1,6 +1,6 @@
 # License
 
-**Dulce adicción a ti**
+**Dulce adicción a ti, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

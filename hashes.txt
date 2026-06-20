@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce adicción a ti, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Dulce adicción a ti, Vol. 2** (dulce-adiccion-a-ti-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T02:00:59.274057 | `v1` | `cc130e13cd1888906a5a4f870322d94f1b254888eecc091cb49c0c13b1b1e2b8` | `a5e0cfd53531ec1c90a04e74feca30ee520b6f4cfd2ae0248b7575c091ac975b` | `2026-06-21_dulce-adiccion-a-ti-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
